@@ -2,6 +2,22 @@
 
 A modern web application for compressing images while maintaining quality. Built with Next.js, TypeScript, and Tailwind CSS.
 
+## Website Design
+
+Here's how our Image Compressor Web Tool looks:
+
+### Home Page & Upload
+
+![Home Page and Upload Interface](website_design/image1.png)
+
+### Compression Process
+
+![Compression Process](website_design/image2.png)
+
+### Results & Downloads
+
+![Results and Downloads](website_design/image3.png)
+
 ## Features
 
 - 🖼️ Support for multiple image formats (PNG, JPG, JPEG, WebP)
